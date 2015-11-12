@@ -10,7 +10,10 @@ body {
 }
 
 img {
-  position: 
+  position: relative;
+  width: 100%;
+  margin-top: 13px;
+
 }
 
 /* ---- button ---- */
@@ -88,7 +91,7 @@ img {
   width: 100px;
   height: 100px;
   margin: 5px;
-  padding: 10px;
+  padding: 2px;
   background: #888;
   color: #262524;
 }
